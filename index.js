@@ -19,6 +19,3 @@ client.on("ready", ()=>{
   //client.user.setActivity("Hello world", {type: "STREAMING", url: "https://twitch.tv/#"})
 })
 
-require("./logger")(client);
-//const logger = require("./logger");
-//logger(client)
